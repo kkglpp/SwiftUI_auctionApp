@@ -1,6 +1,21 @@
-# SeasonFinal_Main_App
+# 이프로젝트는...
+
+- SwiftUI로 개발하였습니다.
+  
+- MVVM 패턴을 준수하고자 하였습니다.
+  
+- rest api 서버와 연동하였습니다.
+  
+- FireStorage와 연동하였습니다. (사진 파일)
 
 
-### Project Slide about this project Link   
-➤  https://drive.google.com/drive/folders/1yVnyq3p243Z7KhNYwmqivM2DoWNKOI65?usp=drive_link   
-➤   [Swift_SwiftUI]_싯가어때.pdf
+
+
+
+
+---  
+---  
+### 프로젝트 시연 동영상 링크
+
+[![Watch the video](https://img.youtube.com/vi/QRy_zk9hV5Q/0.jpg)](https://youtu.be/QRy_zk9hV5Q)
+
